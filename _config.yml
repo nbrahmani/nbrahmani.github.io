@@ -65,17 +65,21 @@ disqus-shortname: "personal-jekyll-theme"
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "Nov 2023 - May 2024"
-    description: "PhD in Computer Science @ [Saarland University, Germany](https://www.uni-saarland.de/start.html)"
+    date: "2025"
+    description: "Paper: Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era @ Journal of Quantitative Description"
   - image: "/img/timeline/spidertocat.png"
-    date: "Nov 2023 - May 2024"
-    description: "Research Fellow @ [Departmemt of Peace Operations, United Nations](https://peacekeeping.un.org/en/department-of-peace-operations)"
+    date: "2024"
+    description: "Paper: Unveiling local patterns of child pornography consumption in France using Tor"
   - image: "/img/timeline/spidertocat.png"
     date: "2022"
-    description: "Researcher in Robotics @ [University of Hyderabad, India](https://uohyd.ac.in)"
+    description: "Paper: Systematic Monotonicity and Consistency for Adversarial Natural Language Inference"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "2017 - 2022"
-    description: "Integrated M.Tech, Computer Science @ [University of Hyderabad, India](https://uohyd.ac.in)"
+    date: "2020"
+    description: "Paper: A Time-Dependent SEIRD Model for Forecasting the Transmission Dynamics in Infectious Diseases: COVID-19 a Case Study"
+  # 2023- pacss
+  # 2023- netmob 23
+  # 2024- netmob 24
+  # 2024- sicss
 
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
