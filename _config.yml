@@ -26,7 +26,7 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Hey there!"
+quote: "Hey there! I'm Brahmani...."
 me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
@@ -104,6 +104,8 @@ social:
     url: "https://github.com/nbrahmani"
   - icon: "linkedin-in"
     url: "https://www.linkedin.com/in/brahmani-nutakki"
+  - icon: "bluesky"
+    url: "https://bsky.app/profile/brahmaninutakki.bsky.social"
   # - icon: "x-twitter"
     # url: "https://twitter.com/"
   # - icon: "rss"
