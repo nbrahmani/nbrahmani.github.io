@@ -65,11 +65,11 @@ disqus-shortname: "personal-jekyll-theme"
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "2022"
+    description: "Researcher in Robotics @ University of Hyderabad"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "2017 - 2022"
+    description: "Integrated M.Tech, Computer Science @ University of Hyderabad"
 
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
