@@ -131,7 +131,7 @@ social:
 pages_list:
   About: "about"
   # Blog: "latest-post"§
-  Research: "timeline"
+  Research Activities: "timeline"
   Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
