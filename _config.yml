@@ -65,11 +65,17 @@ disqus-shortname: "personal-jekyll-theme"
 
 events:
   - image: "/img/timeline/spidertocat.png"
+    date: "Nov 2023 - May 2024"
+    description: "PhD in Computer Science @ [Saarland University, Germany](https://www.uni-saarland.de/start.html)"
+  - image: "/img/timeline/spidertocat.png"
+    date: "Nov 2023 - May 2024"
+    description: "Research Fellow @ [Departmemt of Peace Operations, United Nations](https://peacekeeping.un.org/en/department-of-peace-operations)"
+  - image: "/img/timeline/spidertocat.png"
     date: "2022"
-    description: "Researcher in Robotics @ University of Hyderabad"
+    description: "Researcher in Robotics @ [University of Hyderabad, India](https://uohyd.ac.in)"
   - image: "/img/timeline/baracktocat.jpg"
     date: "2017 - 2022"
-    description: "Integrated M.Tech, Computer Science @ University of Hyderabad"
+    description: "Integrated M.Tech, Computer Science @ [University of Hyderabad, India](https://uohyd.ac.in)"
 
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
