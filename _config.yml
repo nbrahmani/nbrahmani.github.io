@@ -68,18 +68,26 @@ events:
     date: "2025"
     description: "Paper: Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era @ Journal of Quantitative Description"
   - image: "/img/timeline/spidertocat.png"
+    date: "2023"
+    description: "Netmob 2024"
+  - image: "/img/timeline/spidertocat.png"
+    date: "2023"
+    description: "SICSS 2024"
+  - image: "/img/timeline/spidertocat.png"
     date: "2024"
     description: "Paper: Unveiling local patterns of child pornography consumption in France using Tor"
+  - image: "/img/timeline/spidertocat.png"
+    date: "2023"
+    description: "Netmob 2023"
+  - image: "/img/timeline/spidertocat.png"
+    date: "2023"
+    description: "PACSS"
   - image: "/img/timeline/spidertocat.png"
     date: "2022"
     description: "Paper: Systematic Monotonicity and Consistency for Adversarial Natural Language Inference"
   - image: "/img/timeline/baracktocat.jpg"
     date: "2020"
     description: "Paper: A Time-Dependent SEIRD Model for Forecasting the Transmission Dynamics in Infectious Diseases: COVID-19 a Case Study"
-  # 2023- pacss
-  # 2023- netmob 23
-  # 2024- netmob 24
-  # 2024- sicss
 
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
