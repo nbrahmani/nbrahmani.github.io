@@ -104,12 +104,8 @@ social:
     url: "https://github.com/nbrahmani"
   - icon: "linkedin-in"
     url: "https://www.linkedin.com/in/brahmani-nutakki"
-  - icon: "bluesky"
+  - icon: "bsky"
     url: "https://bsky.app/profile/brahmaninutakki.bsky.social"
-  # - icon: "x-twitter"
-    # url: "https://twitter.com/"
-  # - icon: "rss"
-    # url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
