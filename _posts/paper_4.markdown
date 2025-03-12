@@ -1,16 +1,16 @@
 ---
 layout: post 
-title: "Post with Image Feature"
-date: 2024-02-11
-excerpt: "A ton of text to test readability with image feature."
-tags: [sample post, readability, test, image, feature]
-feature: http://i.imgur.com/Ds6S7lJ.png
+title: "Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era"
+date: 2025
+excerpt: "Nutakki, B., Navarrete, R. M., Carteny, G., & Weber, I. (2025)"
+tags: []
+feature: https://doi.org/10.51685/jqd.2025.004
 project: true
-comments: true
+comments: false
 ---
 
 1. **2025**  
-   **Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era**  
+   ****  
    Nutakki, B., Navarrete, R. M., Carteny, G., & Weber, I. (2025). *Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era.* **Journal of Quantitative Description: Digital Media**, 5.  
    [https://doi.org/10.51685/jqd.2025.004](https://doi.org/10.51685/jqd.2025.004)
 
