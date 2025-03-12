@@ -1,7 +1,7 @@
 # Site
 title: Brahmani Nutakki
 bio: "Hola!"
-description: "MPersonal Website"
+description: "Personal Website"
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/cartoon.jpeg"
@@ -36,20 +36,20 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
-facebook: username
-github-url: username
+email: bnutakki@cs.uni-saarland.de
+# twitter: username
+# facebook: username
+github-url: nbrahmani
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: username
+linkedin: brahmani-nutakki
 #xing: username
-instagram: username
+# instagram: username 
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+# steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
@@ -60,6 +60,7 @@ steam: username
 #keybase: username
 #xmpp: username@server.com
 #hackernews: username
+bsky: brahmaninutakki.bsky.social
 
 # Plugins
 plugins:
