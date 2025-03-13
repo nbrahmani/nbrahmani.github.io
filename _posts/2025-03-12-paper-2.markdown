@@ -1,0 +1,29 @@
+---
+layout: post 
+title: "Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era"
+# date: 2025-03-12
+excerpt: "Nutakki, B., Navarrete, R. M., Carteny, G., & Weber, I. (2025)"
+tags: [paper]
+feature: https://doi.org/10.51685/jqd.2025.004
+project: true
+comments: false
+---
+
+1. **2025**  
+   ****  
+   Nutakki, B., Navarrete, R. M., Carteny, G., & Weber, I. (2025). *Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era.* **Journal of Quantitative Description: Digital Media**, 5.  
+   [https://doi.org/10.51685/jqd.2025.004](https://doi.org/10.51685/jqd.2025.004)
+
+2. **2024**  
+   **Unveiling Local Patterns of Child Pornography Consumption in France using Tor**  
+   *Best Contribution Award, NetMob 2023*  
+   Koebe, T., del Villar, Z., Nutakki, B., Sagimbayeva, N., Weber, I., 2023. *Unveiling Local Patterns of Child Pornography Consumption in France using Tor.* arXiv.org.  
+   [https://arxiv.org/abs/2310.11099v3](https://arxiv.org/abs/2310.11099v3)
+
+3. **2022**  
+   **Integrating Symbolic Learning with DNNs for Natural Language Inference**  
+   Nutakki, B., Badola, A., & Padmanabhan, V. (2022). *Systematic monotonicity and consistency for adversarial natural language inference*, in: Aziz, H., Corrêa, D., & French, T. (Eds.), **AI 2022: Advances in Artificial Intelligence**. Springer International Publishing, Cham, pp. 353–366.
+
+4. **2022**  
+   **A Time-Dependent SEIRD Model for Forecasting the Transmission Dynamics in Infectious Diseases: COVID-19 a Case Study**  
+   Rapolu, T., Nutakki, B., Sobha Rani, T., & Durga Bhavani, S. (2022). *A time-dependent SEIRD model for forecasting the transmission dynamics in infectious diseases: COVID-19 a case study*, in: Saraswat, M., Roy, S., Chowdhury, C., & Gandomi, A.H. (Eds.), **Proceedings of International Conference on Data Science and Applications**. Springer Singapore, Singapore, pp. 423–437.

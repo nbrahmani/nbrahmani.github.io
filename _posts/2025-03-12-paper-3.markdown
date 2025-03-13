@@ -1,0 +1,17 @@
+---
+layout: post 
+title: "Unveiling Local Patterns of Child Pornography Consumption in France using Tor"
+# date: 2025-03-12
+excerpt: "Koebe, T., del Villar, Z., Nutakki, B., Sagimbayeva, N., Weber, I., 2023"
+tags: [paper]
+feature: https://arxiv.org/abs/2310.11099v3
+project: true
+comments: false
+---
+
+
+2. **2024**  
+   **Unveiling Local Patterns of Child Pornography Consumption in France using Tor**  
+   *Best Contribution Award, NetMob 2023*  
+   Koebe, T., del Villar, Z., Nutakki, B., Sagimbayeva, N., Weber, I., 2023. *Unveiling Local Patterns of Child Pornography Consumption in France using Tor.* arXiv.org.  
+   [https://arxiv.org/abs/2310.11099v3](https://arxiv.org/abs/2310.11099v3)
