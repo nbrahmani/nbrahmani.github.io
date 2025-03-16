@@ -6,78 +6,34 @@ tags: [about]
 comments: false
 ---
 
-## Education
+Hola, I'm Brahmani!
 
-- **2023 – present:** PhD, Computer Science  
-  *Saarland University*
+I'm a Doctoral Researcher at the [Interdisciplinary Institute for Societal Computing](https://www.i2sc.net) at [Saarland University](https://www.uni-saarland.de/en/home.html) where I dive into the fascinating (and sometimes dark) intersections of society and the digital world. My research sheds light on the hidden, overlooked, and often unsettling aspects of socio-political and online harms—because what happens in the digital sphere doesn’t just stay online; it shapes our realities. Beyond this, I am deeply interested in understanding human behavior—particularly the motivations and patterns that shape online interactions.
 
-- **2017 – 2022:** Integrated Master of Technology, Computer Science  
-  *University of Hyderabad*  
-  *CGPA: 9.21/10*
+When I’m not unraveling the digital traces of human nature, you can find me deep in a book, overanalyzing a random internet trend, or wondering how we all got here (digitally and existentially). 
 
----
+## How I Ended Up Here
 
-## Experience
+- Doctoral Researcher, Computer Science @ [Saarland University](https://www.uni-saarland.de/en/home.html) (2023-Present).
+- Research Fellow @ Information Integrity Unit, [United Nations](https://www.un.org/en/) (2024).
+- Research Assistant, Robotics @ [University of Hyderabad](https://uohyd.ac.in) (2022).
+- Integrated Master of Technology, Computer Science @ [University of Hyderabad](https://uohyd.ac.in) (2017-2022).
+- Data Analyst @ [The COVID-19 Localisation Group](https://covid-19-localisation-modelling.thinkific.com) (2021).
+- Data Analyst Intern @ D2K Technologies (2021).
 
-- **04/2024 – 11/2024:** Research Fellow  
-  *Center for the Study of Organised Hate*
 
-- **11/2023 – 05/2024:** Research Fellow  
-  *Information Integrity Unit, United Nations*
+## Because Academia Isn’t Just About Papers
 
-- **06/2022 – 12/2022:** Research Assistant, Robotics Lab  
-  *University of Hyderabad*
+### Services
 
-- **05/2021 – 07/2021:** Data Analyst Intern  
-  *D2K Technologies*
+- Reviewer, Journal of Quantitative Description: Digital Media (2025).
+- Reviewer, Offensive and Harmful Language Detection and Analysis, LREC-COLING (2024-Present).
+- Reviewer, Workshop on Online Abuse and Harms (2023-Present).
+- Organiser, Robotics Workshop, University of Hyderabad (2023). 
 
-- **06/2020 – 05/2021:** Data Analyst  
-  *The COVID-19 Localisation Group, London*
+### Teaching Assistant
 
----
-
-## Services
-
-- **2025 – present:** *Journal of Quantitative Description: Digital Media* – Reviewer  
-- **2024 – present:** *Offensive and Harmful Language Detection and Analysis, LREC-COLING*  
-  - Reviewer (2024)  
-  - Program Committee (present)  
-- **2023 – present:** *Workshop on Online Abuse and Harms*  
-  - Reviewer (2023)  
-  - Program Committee (present)  
-- **2023:** *Robotics Workshop, University of Hyderabad*  
-  - Organiser  
-
----
-
-## Talks
-
-- **2025:** *Seminar: Politics in the Digital Era*  
-- **2023:** *Conference: Politics and Computational Social Science (PaCSS)*  
-- **2021:** *Seminar: System Dynamics Society on COVID-19*  
-
----
-
-## Teaching
-
-- **03/2024 – present:** Teaching Assistant, Data Science and Artificial Intelligence Seminar  
-  *Saarland University*
-
-- **10/2023 – present:** Teaching Assistant, Elements of Data Structures and Artificial Intelligence  
-  *Saarland University*
-
-- **06/2022 – 02/2024:** Teaching Assistant, Artificial Intelligence and Machine Learning Program  
-  *Talentsprint, International Institute of Information Technology, Hyderabad*
-
-- **01/2022 – 05/2022:** Teaching Assistant, Machine Learning Course  
-  *University of Hyderabad*
-
----
-
-## Miscellaneous
-
-- **2020:** Semifinalist of the *HCL Better Health Hackathon #CodeforCOVID*  
-- **2020:** Winners of the *Hackmakers Global AI Hackathon '#BuildwithAI: Emergence'*  
-- **2017:** Volunteer for the *Green Revolution Program by ICCE*  
-
----
+- Elements of Data Structures and Artificial Intelligence @ [Saarland University](https://www.uni-saarland.de/en/home.html) (2023-Present).
+- Data Science and Artificial Intelligence Seminar @ [Saarland University](https://www.uni-saarland.de/en/home.html) (2024).
+- Artificial Intelligence and Machine Learning Program @ Talentsprint, International Institute of Information Technology, Hyderabad (2022-2024).
+- Machine Learning Course @ [University of Hyderabad](https://uohyd.ac.in) (2022). 
