@@ -39,7 +39,8 @@ body {
     width: 100%;
     min-height: 300px;
     text-align: left;
-    color: $white;
+    // color: $white;
+    color: $color_fuscous_gray;
     @media #{$small} {
         display: block !important;
     }
