@@ -39,8 +39,7 @@ body {
     width: 100%;
     min-height: 300px;
     text-align: left;
-    // color: $white;
-    color: $color_stack;
+    color: $white;
     @media #{$small} {
         display: block !important;
     }
@@ -77,7 +76,7 @@ body {
     padding-left: 15px;
     @include center-block();
     // background: linear-gradient(to right,rgb(128, 110, 142),white);	
-		background-color: $white;
+		background-color: $color_fuscous_gray;
     color: $color_shark;
     z-index: 1;
     display: flex;
