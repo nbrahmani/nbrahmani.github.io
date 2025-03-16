@@ -6,11 +6,11 @@ tags: [about]
 comments: false
 ---
 
-Hola, I'm Brahmani!
+## Hola, I'm Brahmani!
 
 I'm a Doctoral Researcher at the [Interdisciplinary Institute for Societal Computing](https://www.i2sc.net) at [Saarland University](https://www.uni-saarland.de/en/home.html) where I dive into the fascinating (and sometimes dark) intersections of society and the digital world. My research sheds light on the hidden, overlooked, and often unsettling aspects of socio-political and online harms—because what happens in the digital sphere doesn’t just stay online; it shapes our realities. Beyond this, I am deeply interested in understanding human behavior—particularly the motivations and patterns that shape online interactions.
 
-When I’m not unraveling the digital traces of human nature, you can find me deep in a book, overanalyzing a random internet trend, or wondering how we all got here (digitally and existentially). 
+When I’m not unraveling the digital traces of human nature, you can find me deep in a book, overanalyzing a random internet trend, or wondering how we all got here (digitally and existentially).\ 
 
 ## How I Ended Up Here
 
