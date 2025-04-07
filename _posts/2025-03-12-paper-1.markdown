@@ -13,3 +13,5 @@ url: https://www.researchgate.net/publication/356472093_A_Time-Dependent_SEIRD_M
 **2022**  
 **A Time-Dependent SEIRD Model for Forecasting the Transmission Dynamics in Infectious Diseases: COVID-19 a Case Study**  
 Rapolu, T., Nutakki, B., Sobha Rani, T., Durga Bhavani, S. (2022). A Time-Dependent SEIRD Model for Forecasting the Transmission Dynamics in Infectious Diseases: COVID-19 a Case Study. In: Saraswat, M., Roy, S., Chowdhury, C., Gandomi, A.H. (eds) Proceedings of International Conference on Data Science and Applications. Lecture Notes in Networks and Systems, vol 287. Springer, Singapore. [https://doi.org/10.1007/978-981-16-5348-3_33](https://doi.org/10.1007/978-981-16-5348-3_33)
+
+Click [here](https://www.researchgate.net/publication/356472093_A_Time-Dependent_SEIRD_Model_for_Forecasting_the_Transmission_Dynamics_in_Infectious_Diseases_COVID-19_a_Case_Study) for Open Access Article.
