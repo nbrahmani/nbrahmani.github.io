@@ -7,9 +7,10 @@ tags: [paper]
 feature: https://doi.org/10.51685/jqd.2025.004
 project: true
 comments: false
+url: https://doi.org/10.51685/jqd.2025.004
 ---
 
 1. **2025**  
-   ****  
+   **Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era**  
    Nutakki, B., Navarrete, R. M., Carteny, G., & Weber, I. (2025). *Is there anything Left?: A Global Analysis on Changes in Engagement with Political Content on Twitter in the Musk Era.* **Journal of Quantitative Description: Digital Media**, 5.  
    [https://doi.org/10.51685/jqd.2025.004](https://doi.org/10.51685/jqd.2025.004)
