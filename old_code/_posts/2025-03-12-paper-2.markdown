@@ -1,0 +1,17 @@
+---
+layout: post 
+title: "Integrating Symbolic Learning with DNNs for Natural Language Inference"
+# date: 2025-03-12
+excerpt: "Nutakki, B., Navarrete, R. M., Carteny, G., & Weber, I. (2025)"
+tags: [paper]
+feature: https://www.researchgate.net/publication/365983729_Systematic_Monotonicity_and_Consistency_for_Adversarial_Natural_Language_Inference
+project: true
+comments: false
+url: https://www.researchgate.net/publication/365983729_Systematic_Monotonicity_and_Consistency_for_Adversarial_Natural_Language_Inference
+---
+
+**2022**  
+**Integrating Symbolic Learning with DNNs for Natural Language Inference**  
+Nutakki, B., Badola, A., Padmanabhan, V. (2022). Systematic Monotonicity and Consistency for Adversarial Natural Language Inference. In: Aziz, H., Corrêa, D., French, T. (eds) AI 2022: Advances in Artificial Intelligence. AI 2022. Lecture Notes in Computer Science(), vol 13728. Springer, Cham. [https://doi.org/10.1007/978-3-031-22695-3_25](https://doi.org/10.1007/978-3-031-22695-3_25)
+
+Click [here](https://www.researchgate.net/publication/365983729_Systematic_Monotonicity_and_Consistency_for_Adversarial_Natural_Language_Inference) for Open Access Article.

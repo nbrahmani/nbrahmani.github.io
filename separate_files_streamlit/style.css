@@ -1,0 +1,26 @@
+.stButton button {
+    width: 100%;
+}
+
+[data-testid="stSidebar"] {
+    min-width: 350px;
+    max-width: 350px; 
+}
+
+a {
+    color: #4FD1C5 !important; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #CBA0FF !important; 
+    text-decoration: underline;
+}
+
+.rounded-image {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 160px;
+    height: 200px;
+}
